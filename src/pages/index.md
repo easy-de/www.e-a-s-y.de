@@ -2,47 +2,42 @@
 templateKey: index-page
 title: 1. virtueller Bündelschesdaach
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Virtuelles bündeln?
 subheading: Online - ohne Leine!
 mainpitch:
   title: Was geht ab
-  description: |+
-    Programm für den 27.12.2020 ab 19:00 h (CET):
+  description: >+
+    Im Hunsrück war der Bündelschesdaach ein mittelalterlicher Brauch, an der
+    man nach Weihnachten sein Bündel gepackt hat, und sich einen anderen
+    Bauern/Arbeitgeber fürs nächste Jahr gesucht hat. 
+
+    Heute ist es demnach tradition, am 27.12. in kleinen Gruppen durch das Land
+    zu wandern, wobei auch gerne die ein oder andere Pause eingelegt wird, um
+    Flüssigkeit im Körper aufzunehmen.
 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Der virtuelle Bündelschesdaach soll den realen nicht ersetzen. Es dient
+  lediglich als Ausweichmöglichkeit, die Tradition aufrecht zu halten, auch wenn
+  man nicht in der Lage ist, zu Fuß durchs Land zu ziehen.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Es soll in einer lockeren Runde an vergangene Bündelschesdaache erinnert
+        werden und mit kleinen Einlagen die Tradition aufrecht erhalten werden.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Als Teilnehmer sollte man etwas Zeit, Spaß und vor allem gute Laune
+        mitbringen. Es gibt einige Herausforderungen gemeinsam zu bewältigen und
+        ein paar kleinere Wettbewerbe zu bestreiten.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        Gerne bis dahin auch eine Flasche Wein oder ein oder zwei Bier kalt
+        stellen.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        Die Teilnahme ist kostenlos. Zielgruppe sind Personen, die gerne an
+        einem Bündelschestag teilnehmen würden, denen es aber nicht möglich ist.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
